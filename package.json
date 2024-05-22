@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://Priyankaa2002.github.io/weather-app",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "deploy": "gh-pages -d public"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +17,12 @@
     "axios": "^1.7.2",
     "ejs": "^3.1.10",
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Priyankaa2002/weather-app.git"
   }
 }
