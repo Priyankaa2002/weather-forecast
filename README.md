@@ -17,20 +17,7 @@ This is a weather forecast website built with Express.js and the OpenWeatherMap 
 - Node.js
 - npm
 
-### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/weather-forecast.git
-    cd weather-forecast
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Replace `YOUR_OPENWEATHERMAP_API_KEY` in `app.js` with your actual OpenWeatherMap API key.
 
 ### Running the Server
 
